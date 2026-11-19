@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SemijoiasApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#128C7E</item>
+        <item name="colorPrimaryDark">#075E54</item>
+        <item name="colorAccent">#25D366</item>
+        <!-- Sem barra de título — WebView ocupa tela cheia -->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

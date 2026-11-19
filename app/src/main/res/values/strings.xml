@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Semi-joias</string>
+    <string name="error_download_image">Erro ao baixar a imagem</string>
+    <string name="error_open_whatsapp">Erro ao abrir o WhatsApp</string>
+</resources>

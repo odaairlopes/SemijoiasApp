@@ -1,0 +1,22 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Android Studio
+.idea/
+*.iml
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Assinatura e segredos
+*.jks
+*.keystore
+keystore.properties
+google-services.json
+
+# SO
+.DS_Store
+Thumbs.db
